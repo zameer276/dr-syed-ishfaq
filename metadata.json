@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Syed Ishfaq - Gastroenterologist",
+  "description": "Expert Gastroenterologist in Sopore, Kashmir. MBBS, MD (SKIMS), DM Gastroenterology (JIPMER Pondicherry). Specializing in stomach and liver disorders. High-converting WhatsApp appointment booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
